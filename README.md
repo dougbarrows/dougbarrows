@@ -1,6 +1,6 @@
 ## Doug Barrows
 
-<img src="portrait.jpg" alt="drawing" width="200"/>
+<img src="105470_Douglas Barrows.jpg" alt="drawing" width="200"/>
 
 **Background**  
 After receiving a BSc in Biology from Duke University, I moved to New York for a PhD in Pharmacology at Columbia University. Upon completing the PhD in 2016, I came to Rockefeller Univeristy as a postdoctoral fellow in the laboratory of David Allis, where I studied aberrant chromatin regulation in bladder cancer. 
