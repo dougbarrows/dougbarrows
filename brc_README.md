@@ -7,7 +7,7 @@ After receiving a BSc in Biology from Duke University, Doug moved to New York fo
 
 In 2020, he joined the Bioinformatics Resource Center where he continues to be interested in chromatin biology, leading to the development of the profileplyr R Bioconductor package.  As a member of the core, the types of data he works on have expanded to include CUT&RUN/ChIPseq, bulk and single cell RNA sequencing, proteomics, and CRISPR screen datasets. Additionally, he is particularly interested in making the core's analyses more accessible to the researchers we work with through the use of graphical user interfaces. 
 
-**Team Roles**: Bioinformatics analyst performing next generation sequencing analysis and the development of graphical user interfaces for pipeline outputs 
+**Team Roles**: Bioinformatics analyst performing next generation sequencing analysis and leads the development of graphical user interfaces for users and the BRC
 
 <!--
 **dougbarrows/dougbarrows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
